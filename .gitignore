@@ -1,0 +1,51 @@
+# Credentials
+.env
+secrets*
+.pgpass
+.api.config
+
+# Development
+.*env*/
+.py*/
+.git/
+__pycache__
+.pytest_cache
+.vscode
+.ipynb_checkpoints
+desktop
+*copy.*
+
+# Build
+dist
+build
+node_modules
+*.pyc
+servers.json
+output.css
+
+# Scripting
+*.ipynb
+
+# LOGS
+*.log
+logs
+error_logs
+
+# testing
+media/user*
+*.parquet
+.benchmarks
+
+# data
+data/PagamentosBitgov.sql
+data/pagamentos.sql
+users*
+target
+video
+videos
+*.sql
+*.parquet
+*.bak
+
+# Others
+z_*

@@ -1,0 +1,13 @@
+.env
+.api.config
+.git/
+.github/
+.pytest_cache/
+__pycache__/
+node_modules/
+data/
+logs/
+
+*.sql
+*.parquet
+*.bak
